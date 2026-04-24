@@ -1,0 +1,9 @@
+[2026-04-15 19:59:51] REGISTRATION_SUCCESS | User: testUser | IP: 127.0.0.1 | New user created
+[2026-04-15 20:00:55] LOGIN_SUCCESS | User: testUser | IP: 127.0.0.1 | Successful login
+[2026-04-15 20:03:07] TASK_ADDED | User: testUser | IP: 127.0.0.1 | Task: Flask Lab
+[2026-04-15 20:05:15] LOGOUT | User: testUser | IP: 127.0.0.1 | User logged out
+[2026-04-15 20:05:32] LOGIN_FAILED | User: testuser | IP: 127.0.0.1 | Invalid credentials
+[2026-04-15 20:06:14] LOGIN_FAILED | User: testUser | IP: 127.0.0.1 | Invalid credentials
+[2026-04-15 20:06:44] LOGIN_FAILED | User: jgfkd | IP: 127.0.0.1 | Invalid credentials
+[2026-04-15 20:07:04] LOGIN_FAILED | User: dfg | IP: 127.0.0.1 | Invalid credentials
+[2026-04-15 20:07:29] LOGIN_FAILED | User: erty | IP: 127.0.0.1 | Invalid credentials
